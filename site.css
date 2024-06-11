@@ -1,0 +1,7 @@
+@import url('style.css');
+
+/* Override primary color */
+:root {
+  --primary: #8c69ad;
+  --primary-dk: #61417e;
+}
