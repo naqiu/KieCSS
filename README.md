@@ -1,2 +1,2 @@
-# KieCss
- my own css helper using class
+# KieCSS
+My own css helper using class
